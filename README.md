@@ -1,34 +1,31 @@
+# Shopping List
 
-![Descricao da sua imagem](https://imgur.com/C8TfWXc.png)
+Shopping list web application with dynamic javascript page
 
-# Titulo do projeto
+## 🔨 Project Features
 
-Aplicação web de lista de compras para o curso de construção de páginas dinâmicas com JavaScript.
-
-## 🔨 Funcionalidades do projeto
-
-A aplicação permite inserir itens em uma lista de forma dinâmica, permitindo a exclusão e edição dos mesmos. Os itens terão o nome e também a data e horário que foram criados. Também é possível selecionar um checkbox para informar que o item foi comprado.
+The application allows you to dynamically insert items into a list, allowing you to delete and edit them. The items will have a name and also the date and time they were created. You can also select a checkbox to indicate that the item was purchased.
 
 ![Inserção no campo de digitação do valor ração de gato, após, é clicado no botão de edição, onde é aberto um popup para digitar o novo do nome item, que foi digitado ração de cachorro. Em seguida, é clicado no botão de exclusão, e o item é excluído.](https://imgur.com/isPj7Xf.gif)
 
-## ✔️ Técnicas e tecnologias utilizadas
+## ✔️ Techniques and technologies used
 
-As técnicas e tecnologias utilizadas pra isso são:
+The techniques and technologies used for this are:
 
-- `HTML`: criação dos elementos da tela;
-- `CSS`: estilização da aplicação;
-- `JavaScript`: construção de elementos dinâmicos através da manipulação do DOM.
-
+- `HTML`: creation of screen elements;
+- `CSS`: styling of the application;
+- `JavaScript`: construction of dynamic elements through DOM manipulation.
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/alura-cursos/3801-javascript-para-web/tree/projeto-base) ou [baixá-lo](https://github.com/alura-cursos/3801-javascript-para-web/archive/refs/heads/projeto-base.zip).
+You Can [acessar o código fonte do projeto inicial](https://github.com/Wellington2708/shopping-list.git).
 
-## 🛠️ Abrir e rodar o projeto
 
-Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, no menu superior, clique em:
+## 🛠️ Open and run the project
 
-- **File** > **Open Folder** (ou alguma opção similar)
-- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
-- Por fim clique em OK
+After downloading the project, you can open it with Visual Studio Code. To do this, in the top menu, click on:
 
-Ao finalizar esses passos, você pode executar a aplicação com a extensão Live Server 🏆 
+- **File** > **Open Folder** (or similar option)
+- Browse to the location where the project is located and select it (If the project is downloaded via zip, you need to extract it before searching for it)
+- Finally, click on OK
+
+Once you have completed these steps, you can run the application with the Live Server extension 🏆
