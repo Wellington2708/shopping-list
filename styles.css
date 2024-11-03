@@ -98,13 +98,27 @@ input::placeholder {
     color: var(--neutral);
     font-family: var(--text-font);
     font-size: 18px;
+    font-weight: 400;
     line-height: 24px;
     border: none;
 }
 
-.list {
+.container__list {
     width: 100%;
 }
+
+.list__item-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex__container, .flex__buttons {
+    display: flex;
+    gap: 8px;
+}
+
+
 
 li {
     display: flex;
@@ -125,7 +139,7 @@ li button {
     border: none;
 }
 
-ul {
+#shopping__list {
     display: flex;
     flex-direction: column;
     gap: 16px;
